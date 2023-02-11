@@ -25,7 +25,7 @@ export default function Conference() {
             ))}
     </div>
      <div style={{marginTop:"5%"}}>
-     <Message />
+        <Message />
      </div>
      </div>
   )

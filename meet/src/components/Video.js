@@ -77,7 +77,7 @@ export default function Video({peer,index}) {
                     }
                 </button>
                 <button onClick={handleLeaveRoom}>
-                <ImPhoneHangUp/>
+                    <ImPhoneHangUp/>
                 </button>
 
             </div>
