@@ -1,3 +1,10 @@
+# Live Video streaming React App
+
+This project is a virtual meet app using [100msSDK](https://www.100ms.live/), it also has a group text chat.
+
+[Ant Design](https://ant.design/) and [React Icons](https://react-icons.github.io/react-icons/) were used for styling.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
