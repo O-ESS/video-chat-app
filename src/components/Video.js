@@ -52,7 +52,7 @@ export default function Video({peer,index}) {
 
    
   return (
-      <div className="video-div" style={{display:"flex"}}>
+      <div className="video-div" style={{display:"flex", margin: "5px"}}>
         <div className="video-container">
             <div className="cont">
                 <video className="center-vid"
